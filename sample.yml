@@ -1,0 +1,59 @@
+pawns:
+  - name: Pawn 1
+    age: 30
+    gender: Male
+    health: 100
+    skills:
+      - shooting: 5
+      - melee: 4
+      - construction: 3
+  - name: Pawn 2
+    age: 25
+    gender: Female
+    health: 95
+    skills:
+      - shooting: 3
+      - melee: 2
+      - cooking: 4
+  - name: Pawn 3
+    age: 40
+    gender: Male
+    health: 80
+    skills:
+      - shooting: 2
+      - melee: 3
+      - mining: 5
+  - name: Pawn 4
+    age: 35
+    gender: Female
+    health: 90
+    skills:
+      - shooting: 4
+      - melee: 3
+      - crafting: 2
+  - name: Pawn 5
+    age: 28
+    gender: Male
+    health: 100
+    skills:
+      - shooting: 5
+      - melee: 4
+      - research: 3
+  - name: Pawn 6
+    age: 32
+    gender: Female
+    health: 85
+    skills:
+      - shooting: 3
+      - melee: 2
+      - social: 4
+  - name: Pawn 7
+    age: 45
+    gender: Male
+    health: 95
+    skills:
+      - shooting: 2
+      - melee: 3
+      - medical: 5
+conditions:
+  - 
